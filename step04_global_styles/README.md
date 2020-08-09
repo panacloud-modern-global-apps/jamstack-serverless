@@ -1,24 +1,10 @@
-[Install Node.js](https://nodejs.org/en/download/)
+After completing step 03:
 
-[Read Gatsby Receipe Announcement](https://www.gatsbyjs.org/blog/2020-04-15-announcing-gatsby-recipes/)
+[Introduction to Styling in Gatsby](Introduction to Styling in Gatsby)
 
-npm install -g gatsby-cli@latest
+Create global.css in src/styles directory
 
-gatsby new step00_gatsby_typescript_helloworld  https://github.com/gatsbyjs/gatsby-starter-minimal
-
-cd step00_gatsby_typescript_helloworld
-
-npm install gatsby@latest
-
-gatsby recipes
-
-Note: Select Add Typescript to see what is in the recipe
-
-gatsby recipes typescript --install
-
-[Read TypeScript Plugin Docs](https://www.gatsbyjs.org/packages/gatsby-plugin-typescript/)
-
-Create index.tsx page in src/pages directory, any React component defined in src/pages/*.tsx will automatically become a page.
+Create gatsby-browser.js and import the css file
 
 gatsby develop
 
@@ -26,9 +12,11 @@ You can now view the app in the browser.
 ⠀
   http://localhost:8000/
 
-[Read this Tutorial](https://www.gatsbyjs.org/tutorial/part-one/)
 
-[Learn more about recipes](https://www.gatsbyjs.org/docs/recipes/)
+  [Learn more about Gatsby Browser APIs](https://www.gatsbyjs.org/docs/browser-apis/)
+
+
+
 
 
 
