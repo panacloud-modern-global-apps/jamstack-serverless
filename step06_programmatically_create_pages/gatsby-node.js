@@ -5,7 +5,7 @@ exports.createPages = async function ({ actions}) {
         component: require.resolve(`./src/templates/dynamic-page.tsx`),
         context: { 
             // Data passed to context is available
-            // in page queries as GraphQL variables.
+            // in pageContext props of the template component
             name: "Zia",
          },
     });
