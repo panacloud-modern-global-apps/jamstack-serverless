@@ -1,19 +1,20 @@
-After completing step 03:
+After completing step 04:
 
-[Introduction to Styling in Gatsby](https://www.gatsbyjs.org/tutorial/part-two/)
+Gatsby works out of the box with CSS Modules. This approach is highly recommended for those new to building with Gatsby (and React in general).
 
-Create global.css in src/styles directory
+[What are CSS Modules?](https://css-tricks.com/css-modules-part-1-need/)
 
-Create gatsby-browser.js and import the css file
+[Using component-scoped CSS](https://www.gatsbyjs.org/tutorial/part-two/#using-component-scoped-css)
+
+Create desc.module.css in pages directory
+
+Create desc.tsx component page and import the css file
 
 gatsby develop
 
-You can now view the app in the browser.
+You can now view the component page in the browser.
 ⠀
-  http://localhost:8000/
-
-
-  [Learn more about Gatsby Browser APIs](https://www.gatsbyjs.org/docs/browser-apis/)
+  http://localhost:8000/desc
 
 
 
