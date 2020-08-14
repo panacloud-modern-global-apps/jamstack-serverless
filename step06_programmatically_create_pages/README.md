@@ -2,6 +2,10 @@ After completing step 05:
 
 We want to create a page dynamically given the data from any source. However, to keep the step simple we are creating a page dynamically with static data.
 
+Usually we will create these dynamic pages by fetching data from headless CMS like Contentful at Build Time.
+
+[Build Time and Client Runtime Data Fetching](https://www.gatsbyjs.com/docs/data-fetching/)
+
 [Creating and Modifying Pages](https://www.gatsbyjs.cn/docs/creating-and-modifying-pages/)
 
 [Read Create Pages Tutorial](https://www.gatsbyjs.com/docs/programmatically-create-pages-from-data/#creating-pages)
