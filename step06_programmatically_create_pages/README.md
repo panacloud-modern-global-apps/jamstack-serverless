@@ -12,6 +12,8 @@ Create gatsby-node.js in the root
 
 Create tempalate dynamic-page.tsx in templates directory for the page created dynamically
 
+Add a link to the my-dynamic-page page in the index.tsx page
+
 gatsby develop
 
 You can now view the dynamically created component page in the browser.
