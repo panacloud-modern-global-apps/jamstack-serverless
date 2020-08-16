@@ -38,7 +38,7 @@ You can view the GraphQL Explorer at:
 
 http://localhost:8000/___graphql
 
-select the contentfulBlogPost in the GraphQL Explorer and create the Query and run it to test it.
+select the allContentfulBlogPost/edges/node in the GraphQL Explorer and create the Query and run it to test it.
 
 Update index.tsx
 
