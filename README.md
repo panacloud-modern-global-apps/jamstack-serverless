@@ -1,8 +1,12 @@
-# Learn JAMstack in Baby Steps using Gatsby.js and Contentful
+# Learn JAMstack in Baby Steps using Gatsby.js, Contentful, Netlify, FaunaDB, Firebase, and GitHub Actions
 
-In this repo we will learn how to develop JAMstack PWA's using Gatsby.js and Contentful. If you don't have programing background we suggest you start from this [bootcamp](https://panacloud.github.io/bootcamp-2020/).
+Here we will learn to develop blazingly fast and scalable mordern websites and apps.
 
-Here we are mainly covering how to develop the frontend of internet scale global modern apps. To learn how to develop self managed servless API's we suggest this [repo](https://github.com/Panacloud-Multicloud/internet-scale-global-apps). 
+In this repo we will learn how to develop JAMstack PWA's using Gatsby.js, Contentful, Netlify, FaunaDB, Firebase, and GitHub Actions. If you don't have web programing background or don't know React we suggest you start from this [web development bootcamp](https://panacloud.github.io/bootcamp-2020/).
+
+Before starting the steps we suggest reading the following articles:
+
+[Client-serverless is the 4th generation application model](https://www.infoworld.com/article/3564264/client-serverless-is-the-4th-generation-application-model.html).
 
 [New to JAMstack? Everything You Need to Know to Get Started](https://snipcart.com/blog/jamstack)
 
@@ -10,7 +14,19 @@ Here we are mainly covering how to develop the frontend of internet scale global
 
 [Gatsby JS stands on the shoulders of thousands](https://www.infoworld.com/article/3540708/gatsby-js-stands-on-the-shoulders-of-thousands.html)
 
-[The content platform for the digital-first era](https://www.contentful.com/)
+[Contentful: The content platform for the digital-first era](https://www.contentful.com/)
 
 [Headless, decoupled and Contentful: A non-technical explanation for the confused](https://www.contentful.com/blog/2019/02/04/difference-between-headless-decoupled-contentful/)
+
+[About Netlify](https://www.netlify.com/about/)
+
+[Netlify Edge](https://www.netlify.com/products/edge/)
+
+[AWS Lambda Serverless Functions by Netlify](https://www.netlify.com/products/functions/)
+
+[Serverless FaunaDB](https://fauna.com/)
+
+[Firebase Authentication](https://firebase.google.com/docs/auth)
+
+[GitHub Actions](https://github.com/features/actions)
 
