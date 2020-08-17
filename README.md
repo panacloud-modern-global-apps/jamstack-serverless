@@ -32,3 +32,5 @@ Before starting the steps we suggest reading the following articles:
 
 [GitHub Actions](https://github.com/features/actions)
 
+[Introducing Edge Handlers](https://www.netlify.com/blog/2020/05/27/introducing-edge-handlers-in-preview/)
+
