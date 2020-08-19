@@ -1,4 +1,4 @@
-# Learn JAMstack Serverless in Baby Steps using Gatsby.js, Contentful, Storybook, Netlify, FaunaDB, Firebase, Algolia. GitHub Actions, Project Fugu, and CSS Houdini
+# Learn JAMstack Serverless in Baby Steps using Gatsby.js, Contentful, Storybook, Netlify, FaunaDB, Firebase, Algolia, GitHub Actions, Project Fugu, and CSS Houdini
 
 Here we will learn to develop blazingly fast and scalable mordern websites and apps using JAMstack and Serverless technologies.
 
