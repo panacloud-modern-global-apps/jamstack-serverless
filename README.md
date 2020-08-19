@@ -1,6 +1,6 @@
-# Learn JAMstack in Baby Steps using Gatsby.js, Contentful, Netlify, FaunaDB, Firebase, and GitHub Actions
+# Learn JAMstack Serverless in Baby Steps using Gatsby.js, Contentful, Storybook, Netlify, FaunaDB, Firebase, Algolia. GitHub Actions, Project Fugu, and CSS Houdini
 
-Here we will learn to develop blazingly fast and scalable mordern websites and apps.
+Here we will learn to develop blazingly fast and scalable mordern websites and apps using JAMstack and Serverless technologies.
 
 In this repo we will learn how to develop JAMstack PWA's using Gatsby.js, Contentful, Netlify, FaunaDB, Firebase, and GitHub Actions. If you don't have web programing background or don't know React we suggest you start from this [web development bootcamp](https://panacloud.github.io/bootcamp-2020/).
 
@@ -39,4 +39,10 @@ Before starting the steps we suggest reading the following articles:
 [GitHub Actions](https://github.com/features/actions)
 
 [Introducing Edge Handlers](https://www.netlify.com/blog/2020/05/27/introducing-edge-handlers-in-preview/)
+
+[Project Fugu by Google, Microsoft, Intel, and Samsung](https://www.chromium.org/teams/web-capabilities-fugu)
+
+[A Practical Overview Of CSS Houdini](https://www.smashingmagazine.com/2020/03/practical-overview-css-houdini/)
+
+
 
