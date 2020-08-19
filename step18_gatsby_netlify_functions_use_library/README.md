@@ -1,20 +1,16 @@
-Copy Step 00 code into Step 17
+Repeat Step 04
 
-[Using Netlify Functions with Gatsby](https://joshwcomeau.com/gatsby/using-netlify-functions-with-gatsby/)
+Now we will add a dependency package in the netlify function
 
-[Watch video Announcing Netlify Dev](https://www.youtube.com/watch?v=RL_gtVZ_79Q&feature=youtu.be&t=1376)
+cd functions/hello
 
-Add a functions folder declaration in netlify.toml file
+npm init
 
-Give the following command to create a function:
+npm i --save random-name
 
-netlify functions:create hello
-
-Edit the created function
+Update hello.js code
 
 Add useEffect hook in index.tsx
-
-You can also Start the Local Server:
 
 netlify dev
 

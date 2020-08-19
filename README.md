@@ -8,6 +8,12 @@ Before starting the steps we suggest reading the following articles:
 
 [Client-serverless is the 4th generation application model](https://www.infoworld.com/article/3564264/client-serverless-is-the-4th-generation-application-model.html).
 
+[JAMstack](https://jamstack.org/)
+
+[JAMstack Best Practices](https://jamstack.org/best-practices/)
+
+[Static First: Pre-Generated JAMstack Sites with Serverless Rendering as a Fallback](https://css-tricks.com/static-first-pre-generated-jamstack-sites-with-serverless-rendering-as-a-fallback/)
+
 [Celebrating 1 million developers: What’s next for Netlify and the Jamstack](https://www.netlify.com/blog/2020/08/03/celebrating-1-million-developers-whats-next-for-netlify-and-the-jamstack/)
 
 [New to JAMstack? Everything You Need to Know to Get Started](https://snipcart.com/blog/jamstack)
