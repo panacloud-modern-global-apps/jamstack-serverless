@@ -1,3 +1,7 @@
+[Next.js vs. GatsbyJS: A developer’s perspective](https://blog.logrocket.com/next-js-vs-gatsbyjs-a-developers-perspective/)
+
+[Which To Choose in 2020: NextJS or Gatsby?](https://medium.com/frontend-digest/which-to-choose-in-2020-nextjs-vs-gatsby-1aa7ca279d8a)
+
 [Install Node.js](https://nodejs.org/en/download/)
 
 [Read Gatsby Receipe Announcement](https://www.gatsbyjs.org/blog/2020-04-15-announcing-gatsby-recipes/)

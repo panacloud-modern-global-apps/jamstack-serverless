@@ -1,3 +1,5 @@
+[Where Does Logic Go on Jamstack Sites?](https://css-tricks.com/where-does-logic-go-on-jamstack-sites/)
+
 [Build Time and Client Runtime Data Fetching](https://www.gatsbyjs.com/docs/data-fetching/)
 
 In this step we are going to fetch data at build time from a headless cms i.e. Contentful

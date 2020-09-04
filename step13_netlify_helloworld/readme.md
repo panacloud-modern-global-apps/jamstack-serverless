@@ -46,6 +46,10 @@ Add .gitignore so that .netlify directory not pushed to github
 
 Bug: Currently there is some bug in the netlify dev tool, once the .netlify folder is created the dev tool stops working. Therefore, you will have to delete .netlify directory to restart netlify dev.
 
+Very Important Note:
+For teaching purposed in order to help the students understand and manage, we have included all the steps in a single GitHub repo. For development we would suggest that single project should be in a single repo and that repo connected to Netlify, thus making development easy. Local develop will be done in netlify dev and the code is pushed it is automatically deployed on Netlify.
+
+
 Alternatives to Netlify:
 
 [Google Firebase](https://firebase.google.com/)
