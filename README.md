@@ -1,10 +1,11 @@
-# Learn JAMstack Serverless in Baby Steps using Gatsby.js, React, Contentful, Storybook, Netlify, FaunaDB, Hasura, Firebase, Algolia, GitHub Actions, Web Assembly, Project Fugu, and CSS Houdini
+# Learn JAMstack Serverless in Baby Steps
 
 Here we will learn to develop blazingly fast and scalable modern websites and apps using JAMstack and Serverless technologies.
 
 In this repo we will learn how to develop JAMstack PWA's using Gatsby.js, Contentful, Netlify, FaunaDB, Hasura, Firebase, and GitHub Actions. If you don't have web programming background or don't know React we suggest you start from this [web development bootcamp](https://panacloud.github.io/bootcamp-2020/).
 
 Before starting the steps we suggest reading the following articles:
+
 
 SSG vs SSR vs CSR
 
@@ -24,7 +25,8 @@ SSG vs SSR vs CSR
 
 [Gatsby won against Next.js in this head-to-head](https://dev.to/notsidney/gatsby-won-against-next-js-in-this-head-to-head-37ka)
 
-JAMstack Serverless
+
+JAMstack
 
 [Client-serverless is the 4th generation application model](https://www.infoworld.com/article/3564264/client-serverless-is-the-4th-generation-application-model.html).
 
@@ -42,33 +44,14 @@ JAMstack Serverless
 
 [New to JAMstack? Everything You Need to Know to Get Started](https://snipcart.com/blog/jamstack)
 
+[WordPress Co-Founder Matt Mullenweg Is Not a Fan of JAMstack](https://thenewstack.io/wordpress-co-founder-matt-mullenweg-is-not-a-fan-of-jamstack/)
+
+
+Gatsby.js
+
 [Gatsby for blazing fast Websites and Apps](https://www.gatsbyjs.org/)
 
 [Gatsby JS stands on the shoulders of thousands](https://www.infoworld.com/article/3540708/gatsby-js-stands-on-the-shoulders-of-thousands.html)
-
-[WordPress Co-Founder Matt Mullenweg Is Not a Fan of JAMstack](https://thenewstack.io/wordpress-co-founder-matt-mullenweg-is-not-a-fan-of-jamstack/)
-
-[Contentful: The content platform for the digital-first era](https://www.contentful.com/)
-
-[Headless, decoupled and Contentful: A non-technical explanation for the confused](https://www.contentful.com/blog/2019/02/04/difference-between-headless-decoupled-contentful/)
-
-[About Netlify](https://www.netlify.com/about/)
-
-[Netlify Edge](https://www.netlify.com/products/edge/)
-
-[What is serverless? Serverless computing explained](https://www.infoworld.com/article/3406501/what-is-serverless-serverless-computing-explained.html)
-
-[Future of Serverless Architecture](https://www.infoq.com/news/2020/07/future-serverless-architecture/)
-
-[AWS Lambda Serverless Functions by Netlify](https://www.netlify.com/products/functions/)
-
-[Serverless FaunaDB](https://fauna.com/)
-
-[Firebase Authentication](https://firebase.google.com/docs/auth)
-
-[Approaches to add dynamic content to statically generated sites (JAMStack)](https://hasura.io/blog/approaches-to-add-dynamic-content-statically-generated-sites-jamstack/)
-
-[Dynamic JAMStack with Gatsby and Hasura GraphQL](https://hasura.io/blog/dynamic-jamstack-with-gatsby-hasura-graphql/)
 
 [Turn Your Gatsby Site into a Progressive Web App](https://www.gatsbyjs.org/blog/100days/pwa/) 
 
@@ -76,13 +59,66 @@ JAMstack Serverless
 
 [You may use this starter in your apps](https://www.gatsbyjs.org/starters/wataruoguchi/gatsby-starter-typescript-contentful/)
 
+
+
+Contentful
+
+[Contentful: The content platform for the digital-first era](https://www.contentful.com/)
+
+[Headless, decoupled and Contentful: A non-technical explanation for the confused](https://www.contentful.com/blog/2019/02/04/difference-between-headless-decoupled-contentful/)
+
+
+Netlify
+
+[About Netlify](https://www.netlify.com/about/)
+
+[Netlify Edge](https://www.netlify.com/products/edge/)
+
+[Introducing Edge Handlers](https://www.netlify.com/blog/2020/05/27/introducing-edge-handlers-in-preview/)
+
+
+Serverless
+
+[What is serverless? Serverless computing explained](https://www.infoworld.com/article/3406501/what-is-serverless-serverless-computing-explained.html)
+
+[Future of Serverless Architecture](https://www.infoq.com/news/2020/07/future-serverless-architecture/)
+
+[AWS Lambda Serverless Functions by Netlify](https://www.netlify.com/products/functions/)
+
+
+Serverless FaunaDB
+
+[Serverless FaunaDB](https://fauna.com/)
+
+
+Serverless Authentication (Free)
+
+[Firebase Authentication](https://firebase.google.com/docs/auth)
+
+
+Hasura
+
+[Approaches to add dynamic content to statically generated sites (JAMStack)](https://hasura.io/blog/approaches-to-add-dynamic-content-statically-generated-sites-jamstack/)
+
+[Dynamic JAMStack with Gatsby and Hasura GraphQL](https://hasura.io/blog/dynamic-jamstack-with-gatsby-hasura-graphql/)
+
+
+Next.js
+
 [How Next.js can help improve SEO](https://blog.logrocket.com/how-next-js-can-help-improve-seo/)
 
 [Learn Next.js](https://nextjs.org/learn/basics/create-nextjs-app)
 
+
+CI/CD
+
+You can connect GitHub to Netlify directly
+
 [GitHub Actions](https://github.com/features/actions)
 
-[Introducing Edge Handlers](https://www.netlify.com/blog/2020/05/27/introducing-edge-handlers-in-preview/)
+
+
+The coming Web App Revolutionary Technologies
 
 [An Overview of WebAssembly](https://medium.com/swlh/an-overview-of-webassembly-4ce9bd98aae7)
 
