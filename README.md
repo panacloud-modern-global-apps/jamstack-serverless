@@ -56,6 +56,10 @@ JAMstack Serverless
 
 [Netlify Edge](https://www.netlify.com/products/edge/)
 
+[What is serverless? Serverless computing explained](https://www.infoworld.com/article/3406501/what-is-serverless-serverless-computing-explained.html)
+
+[Future of Serverless Architecture](https://www.infoq.com/news/2020/07/future-serverless-architecture/)
+
 [AWS Lambda Serverless Functions by Netlify](https://www.netlify.com/products/functions/)
 
 [Serverless FaunaDB](https://fauna.com/)
