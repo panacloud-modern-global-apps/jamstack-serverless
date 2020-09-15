@@ -56,6 +56,10 @@ Alternatives to Netlify:
 
 [Vercel](https://vercel.com/)
 
+[Azure Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/)
+
+[AWS Amplify](https://aws.amazon.com/amplify/)
+
 [Battle of the Jamstack platforms — Netlify, Vercel, AWS](https://www.lambrospetrou.com/articles/battle-of-jamstack-platforms-netlify-vercel-aws/)
 
 Must Read:

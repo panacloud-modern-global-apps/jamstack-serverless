@@ -1,0 +1,7 @@
+[build]
+  command = "yarn build"
+  functions = "functions"
+  publish = "public"
+
+[context.production]
+  environment = { FAUNADB_ADMIN_SECRET = "my-funadb-admin-secret"}

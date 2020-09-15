@@ -26,6 +26,11 @@ SSG vs SSR vs CSR
 [Gatsby won against Next.js in this head-to-head](https://dev.to/notsidney/gatsby-won-against-next-js-in-this-head-to-head-37ka)
 
 
+[Even Next.js 9.3+ recommends SSG when possible, only use SSG when absolutely necessary](https://nextjs.org/docs/basic-features/pages)
+
+Therefore we will be using Gatsby for JSMstack to do SSG with CSR when required. You cannot implement SSR with Gatsby, but in our opinion SSR is not Jamstack-y anyway.
+
+
 JAMstack
 
 [Client-serverless is the 4th generation application model](https://www.infoworld.com/article/3564264/client-serverless-is-the-4th-generation-application-model.html).
@@ -33,6 +38,9 @@ JAMstack
 [Jamstack brings front-end development back into focus](https://sdtimes.com/webdev/jamstack-brings-front-end-development-back-into-focus/)
 
 [The state of the Jamstack in 2020](https://sdtimes.com/webdev/the-state-of-the-jamstack-in-2020/)
+
+[The JAMStack and the startups building it](https://technically.dev/posts/the-jamstack-and-the-startups-building-it)
+
 
 [JAMstack](https://jamstack.org/)
 
@@ -46,6 +54,10 @@ JAMstack
 
 [WordPress Co-Founder Matt Mullenweg Is Not a Fan of JAMstack](https://thenewstack.io/wordpress-co-founder-matt-mullenweg-is-not-a-fan-of-jamstack/)
 
+[The Rise of Full Stack Serverless at Amazon Web Services](https://thenewstack.io/theres-a-service-for-that-amazon-web-services-and-serverless-computing/)
+
+[Extending JAMstack: 10 APIs and Tools to check out in 2020](https://www.stackbit.com/blog/extending-jamstack-2020/)
+
 
 Gatsby.js
 
@@ -58,6 +70,8 @@ Gatsby.js
 [Making Gatsby a PWA: Service Worker and Web App Manifest](https://www.digitalocean.com/community/tutorials/gatsbyjs-gatsby-pwa)
 
 [You may use this starter in your apps](https://www.gatsbyjs.org/starters/wataruoguchi/gatsby-starter-typescript-contentful/)
+
+[Checkout out Novela — A Gatsby theme by Narative](https://github.com/narative/gatsby-theme-novela)
 
 
 
@@ -76,14 +90,34 @@ Netlify
 
 [Introducing Edge Handlers](https://www.netlify.com/blog/2020/05/27/introducing-edge-handlers-in-preview/)
 
+Alternatives to Netlify:
+
+[AWS Amplify](https://aws.amazon.com/amplify/)
+
+[Google Firebase](https://firebase.google.com/)
+
+[Vercel](https://vercel.com/)
+
+[Azure Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/)
+
 
 Serverless
+
+[From Frontend to Fullstack!](https://dev.to/fllstck/from-frontend-to-fullstack-2ah4)
+
+[The Rise of Full Stack Serverless at Amazon Web Services](https://thenewstack.io/theres-a-service-for-that-amazon-web-services-and-serverless-computing/)
+
+
+[Chapter 1 of Full Stack Serverless](https://learning.oreilly.com/library/view/full-stack-serverless/9781492059882/ch01.html)
+
 
 [What is serverless? Serverless computing explained](https://www.infoworld.com/article/3406501/what-is-serverless-serverless-computing-explained.html)
 
 [Future of Serverless Architecture](https://www.infoq.com/news/2020/07/future-serverless-architecture/)
 
 [AWS Lambda Serverless Functions by Netlify](https://www.netlify.com/products/functions/)
+
+[Read Summary and Predictions of the paper on Cloud Programming Simplified: A Berkeley View on Serverless Computing](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.pdf)
 
 
 Serverless FaunaDB
@@ -96,12 +130,25 @@ Serverless Authentication (Free)
 [Firebase Authentication](https://firebase.google.com/docs/auth)
 
 
-Hasura
+Hasura GraphQL Service
+
+[Hasura Website](https://hasura.io/)
 
 [Approaches to add dynamic content to statically generated sites (JAMStack)](https://hasura.io/blog/approaches-to-add-dynamic-content-statically-generated-sites-jamstack/)
 
 [Dynamic JAMStack with Gatsby and Hasura GraphQL](https://hasura.io/blog/dynamic-jamstack-with-gatsby-hasura-graphql/)
 
+[Building a realtime chat app with GraphQL Subscriptions](https://dev.to/dabit3/building-chatt---a-real-time-multi-user-graphql-chat-app-3jik)
+
+Alternatives to Hasura:
+
+[AWS AppSync is a serverless GraphQL service](https://www.serverless.com/aws-appsync)
+
+[Building a serverless real-time chat application with AWS AppSync](https://aws.amazon.com/blogs/mobile/building-a-serverless-real-time-chat-application-with-aws-appsync/)
+
+[Apollo Server Lambda](https://www.apollographql.com/docs/apollo-server/deployment/lambda/)
+
+[Comparing Tools For GraphQL Schema Stitching: Hasura vs. Apollo](https://nordicapis.com/comparing-tools-for-graphql-schema-stitching-hasura-vs-apollo/)
 
 Next.js
 
