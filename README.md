@@ -12,6 +12,8 @@ Modern Applications
 
 [FAQ](https://aws.amazon.com/modern-apps/faqs/)
 
+[Your Guide to Modern Cloud-Based Application Development](https://relevant.software/blog/modern-cloud-based-application-development/)
+
 [The rise of 'modern applications': Why you need them](https://searchcio.techtarget.com/feature/The-rise-of-modern-applications-Why-you-need-them)
 
 
@@ -35,6 +37,8 @@ SSG vs SSR vs CSR
 
 
 [Even Next.js 9.3+ recommends SSG when possible, only use SSG when absolutely necessary](https://nextjs.org/docs/basic-features/pages)
+
+[Next.js vs. Gatsby vs. Create React App](https://leerob.io/blog/nextjs-gatsby-create-react-app)
 
 Therefore we will be using Gatsby for JSMstack to do SSG with CSR when required. You cannot implement SSR with Gatsby, but in our opinion SSR is not Jamstack-y anyway.
 
