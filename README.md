@@ -6,6 +6,14 @@ In this repo we will learn how to develop JAMstack PWA's using Gatsby.js, Conten
 
 Before starting the steps we suggest reading the following articles:
 
+Modern Applications
+
+[AWS Modern Applications](https://aws.amazon.com/modern-apps/)
+
+[FAQ](https://aws.amazon.com/modern-apps/faqs/)
+
+[The rise of 'modern applications': Why you need them](https://searchcio.techtarget.com/feature/The-rise-of-modern-applications-Why-you-need-them)
+
 
 SSG vs SSR vs CSR
 
