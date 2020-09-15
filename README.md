@@ -87,7 +87,7 @@ Gatsby.js
 
 
 
-Contentful
+Contentful (Headless CMS)
 
 [Contentful: The content platform for the digital-first era](https://www.contentful.com/)
 
@@ -137,12 +137,12 @@ Serverless FaunaDB
 [Serverless FaunaDB](https://fauna.com/)
 
 
-Serverless Authentication (Free)
+Serverless Authentication
 
 [Firebase Authentication](https://firebase.google.com/docs/auth)
 
 
-Hasura GraphQL Service
+GraphQL Services
 
 [Hasura Website](https://hasura.io/)
 
@@ -177,7 +177,7 @@ You can connect GitHub to Netlify directly
 
 
 
-The coming Web App Revolutionary Technologies
+What is Next for Web App Technologies
 
 [An Overview of WebAssembly](https://medium.com/swlh/an-overview-of-webassembly-4ce9bd98aae7)
 
