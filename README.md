@@ -1,10 +1,12 @@
 # Learn JAMstack Serverless in Baby Steps
 
-Here we will learn to develop blazingly fast and scalable modern websites and apps using JAMstack and Serverless technologies.
+Here we will learn to develop blazingly fast and scalable modern websites and apps using JAMstack, GraphQL and Serverless technologies.
 
-In this repo we will learn how to develop JAMstack PWA's using Gatsby.js, Contentful, Netlify, FaunaDB, Hasura, Firebase, and GitHub Actions. If you don't have web programming background or don't know React we suggest you start from this [web development bootcamp](https://panacloud.github.io/bootcamp-2020/).
+In this repo we will learn how to develop JAMstack Serverless Websites and Apps using React, Gatsby.js, Contentful, Serverless Functions, Netlify, FaunaDB, Hasura, Firebase, and GitHub Actions. 
 
-Before starting the steps we suggest reading the following articles:
+If you don't have web programming background or don't know React we suggest you start from this [app development foundation bootcamp](https://panacloud.github.io/bootcamp-2020/).
+
+Before starting the steps we suggest reading the following articles which cover the concepts, technologies, and architecture of modern fullstack websites and apps:
 
 Modern Applications
 
@@ -83,7 +85,7 @@ Gatsby.js
 
 [You may use this starter in your apps](https://www.gatsbyjs.org/starters/wataruoguchi/gatsby-starter-typescript-contentful/)
 
-[Checkout out Novela — A Gatsby theme by Narative](https://github.com/narative/gatsby-theme-novela)
+[Checkout out Novela to understand the power of Gatsby — A Gatsby theme by Narative](https://github.com/narative/gatsby-theme-novela)
 
 
 
@@ -102,7 +104,7 @@ Netlify
 
 [Introducing Edge Handlers](https://www.netlify.com/blog/2020/05/27/introducing-edge-handlers-in-preview/)
 
-Alternatives to Netlify:
+Alternatives to Netlify for deploying Fullstack Serverless apps and websites:
 
 [AWS Amplify](https://aws.amazon.com/amplify/)
 
@@ -136,10 +138,16 @@ Serverless FaunaDB
 
 [Serverless FaunaDB](https://fauna.com/)
 
+[The Effortless Backend for Jamstack Applications with GraphQL](https://www2.fauna.com/jamstack)
+
+Alternatives are MongoDB, Amazon DynamoDB, and Google Firestore
+
 
 Serverless Authentication
 
 [Firebase Authentication](https://firebase.google.com/docs/auth)
+
+It is a totally free serverless authentication service. Alternative is AWS Cognito.
 
 
 GraphQL Services
@@ -151,6 +159,8 @@ GraphQL Services
 [Dynamic JAMStack with Gatsby and Hasura GraphQL](https://hasura.io/blog/dynamic-jamstack-with-gatsby-hasura-graphql/)
 
 [Building a realtime chat app with GraphQL Subscriptions](https://dev.to/dabit3/building-chatt---a-real-time-multi-user-graphql-chat-app-3jik)
+
+[Hasura is ideal for building realtime GraphQL subscriptions](https://hasura.io/learn/graphql/intro-graphql/graphql-subscriptions/)
 
 Alternatives to Hasura:
 
