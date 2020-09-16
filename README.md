@@ -23,6 +23,8 @@ Modern applications are built with a combination of modular architecture pattern
 
 SSG vs SSR vs CSR
 
+If you build everything as a SPA using React (Using Create React App) this will be the result: [Stop using React](https://dev.to/ender_minyard/why-you-should-stop-using-react-g7c)
+
 [Server Side Rendering vs Static Site Generation](https://dev.to/matfrana/server-side-rendering-vs-static-site-generation-17nf)
 
 [Next.js vs. GatsbyJS: A developer’s perspective](https://blog.logrocket.com/next-js-vs-gatsbyjs-a-developers-perspective/)
