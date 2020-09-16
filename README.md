@@ -162,6 +162,8 @@ GraphQL Services
 
 [Hasura is ideal for building realtime GraphQL subscriptions](https://hasura.io/learn/graphql/intro-graphql/graphql-subscriptions/)
 
+[Ramblings: Firebase vs Appsync vs Hasura](https://www.youtube.com/watch?v=mvy79Q3eXsY)
+
 Alternatives to Hasura:
 
 [AWS AppSync is a serverless GraphQL service](https://www.serverless.com/aws-appsync)
