@@ -10,7 +10,7 @@ Before starting the steps we suggest reading the following articles which cover 
 
 Modern Applications
 
-Modern applications built with a combination of modular architecture patterns like micro services (instead of monolithic)  and components, serverless operational models, event driven with data stored in modern globally distributed databases, connected with GraphQL Query and realtime subscription APIs, and agile developer processes allow organizations to innovate faster while reducing risk, time to market, and total cost of ownership.
+Modern applications are built with a combination of modular architecture patterns like micro services (instead of monolithic)  and components, serverless operational models, event driven with data stored in modern globally distributed databases, services connected with GraphQL Query and realtime subscription APIs, and agile developer processes that allow organizations to innovate faster while reducing risk, time to market, and total cost of ownership.
 
 [AWS Modern Applications](https://aws.amazon.com/modern-apps/)
 
