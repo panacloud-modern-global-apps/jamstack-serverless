@@ -40,7 +40,7 @@ SSG vs SSR vs CSR
 [Gatsby won against Next.js in this head-to-head](https://dev.to/notsidney/gatsby-won-against-next-js-in-this-head-to-head-37ka)
 
 
-[Even Next.js 9.3+ recommends SSG when possible, only use SSG when absolutely necessary](https://nextjs.org/docs/basic-features/pages)
+[Even Next.js 9.3+ recommends SSG when possible, only use SSR when absolutely necessary](https://nextjs.org/docs/basic-features/pages)
 
 [Next.js vs. Gatsby vs. Create React App](https://leerob.io/blog/nextjs-gatsby-create-react-app)
 
