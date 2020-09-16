@@ -6,9 +6,11 @@ In this repo we will learn how to develop JAMstack Serverless Websites and Apps 
 
 If you don't have web programming background or don't know React we suggest you start from this [app development foundation bootcamp](https://panacloud.github.io/bootcamp-2020/).
 
-Before starting the steps we suggest reading the following articles which cover the concepts, technologies, and architecture of modern fullstack websites and apps:
+Before starting the steps we suggest reading the following articles which cover the concepts, technologies, architecture and companies behind modern fullstack websites and apps:
 
 Modern Applications
+
+Modern applications built with a combination of modular architecture patterns like micro services (instead of monolithic)  and components, serverless operational models, event driven with data stored in modern globally distributed databases, connected with GraphQL Query and realtime subscription APIs, and agile developer processes allow organizations to innovate faster while reducing risk, time to market, and total cost of ownership.
 
 [AWS Modern Applications](https://aws.amazon.com/modern-apps/)
 
@@ -47,6 +49,8 @@ Therefore we will be using Gatsby for JSMstack to do SSG with CSR when required.
 
 JAMstack
 
+[Introducing the JAMstack](https://www.infoq.com/news/2020/04/introducing-jamstack/)
+
 [Client-serverless is the 4th generation application model](https://www.infoworld.com/article/3564264/client-serverless-is-the-4th-generation-application-model.html).
 
 [Jamstack brings front-end development back into focus](https://sdtimes.com/webdev/jamstack-brings-front-end-development-back-into-focus/)
@@ -75,6 +79,8 @@ JAMstack
 
 Gatsby.js
 
+[Gatsby Raises $28M in Series B Funding to Become the Way the Web is Built](https://www.businesswire.com/news/home/20200527005268/en/Gatsby-Raises-28M-Series-Funding-Web-Built)
+
 [Gatsby for blazing fast Websites and Apps](https://www.gatsbyjs.org/)
 
 [Gatsby JS stands on the shoulders of thousands](https://www.infoworld.com/article/3540708/gatsby-js-stands-on-the-shoulders-of-thousands.html)
@@ -83,13 +89,11 @@ Gatsby.js
 
 [Making Gatsby a PWA: Service Worker and Web App Manifest](https://www.digitalocean.com/community/tutorials/gatsbyjs-gatsby-pwa)
 
-[You may use this starter in your apps](https://www.gatsbyjs.org/starters/wataruoguchi/gatsby-starter-typescript-contentful/)
-
-[Checkout out Novela to understand the power of Gatsby — A Gatsby theme by Narative](https://github.com/narative/gatsby-theme-novela)
-
 
 
 Contentful (Headless CMS)
+
+[Contentful raises $80M Series E round for its headless CMS](https://techcrunch.com/2020/06/17/contentful-raises-80m-series-e-round-for-its-headless-cms/)
 
 [Contentful: The content platform for the digital-first era](https://www.contentful.com/)
 
@@ -97,6 +101,8 @@ Contentful (Headless CMS)
 
 
 Netlify
+
+[Netlify nabs $53M Series C as microservices approach to web development grows](https://techcrunch.com/2020/03/04/netfily-nabs-53m-series-c-as-micro-services-approach-to-web-development-grows/)
 
 [About Netlify](https://www.netlify.com/about/)
 
@@ -117,6 +123,12 @@ Alternatives to Netlify for deploying Fullstack Serverless apps and websites:
 
 Serverless
 
+[Why serverless is the future of software and apps](https://ttpsc.com/en/blog/why-serverless-is-the-future-of-software-and-apps/)
+
+[The impact of serverless on the future of cloud technology](https://cio.economictimes.indiatimes.com/news/cloud-computing/the-impact-of-serverless-on-the-future-of-cloud-technology/77275273)
+
+[Serverless Architecture – The Future of Cloud Computing](https://www.fortunesoftit.com/serverless-the-future-of-cloud-computing/)
+
 [From Frontend to Fullstack!](https://dev.to/fllstck/from-frontend-to-fullstack-2ah4)
 
 [The Rise of Full Stack Serverless at Amazon Web Services](https://thenewstack.io/theres-a-service-for-that-amazon-web-services-and-serverless-computing/)
@@ -136,6 +148,8 @@ Serverless
 
 Serverless FaunaDB
 
+[FaunaDB Closes $27M Series A, Welcomes New Leadership](https://news.crunchbase.com/news/faunadb-closes-27m-series-a-welcomes-new-leadership/)
+
 [Serverless FaunaDB](https://fauna.com/)
 
 [The Effortless Backend for Jamstack Applications with GraphQL](https://www2.fauna.com/jamstack)
@@ -143,14 +157,11 @@ Serverless FaunaDB
 Alternatives are MongoDB, Amazon DynamoDB, and Google Firestore
 
 
-Serverless Authentication
-
-[Firebase Authentication](https://firebase.google.com/docs/auth)
-
-It is a totally free serverless authentication service. Alternative is AWS Cognito.
-
-
 GraphQL Services
+
+[Hasura Raises $25M in Series B Funding](https://www.finsmes.com/2020/09/hasura-raises-25m-in-series-b-funding.html)
+
+[Enterprise startup Hasura grabs $25 million in a round led by Lightspeed Venture Partners](https://thetechportal.com/2020/09/10/enterprise-startup-hasura-25-million-funding-round-lightspeed-venture-partners/)
 
 [Hasura Website](https://hasura.io/)
 
@@ -164,6 +175,7 @@ GraphQL Services
 
 [Ramblings: Firebase vs Appsync vs Hasura](https://www.youtube.com/watch?v=mvy79Q3eXsY)
 
+
 Alternatives to Hasura:
 
 [AWS AppSync is a serverless GraphQL service](https://www.serverless.com/aws-appsync)
@@ -176,16 +188,27 @@ Alternatives to Hasura:
 
 [Comparing Tools For GraphQL Schema Stitching: Hasura vs. Apollo](https://nordicapis.com/comparing-tools-for-graphql-schema-stitching-hasura-vs-apollo/)
 
+
 Next.js
+
+[Next.js creator, Vercel, Raises $21 Million with Series A Funding](https://www.globenewswire.com/news-release/2020/04/21/2019124/0/en/Next-js-creator-Vercel-Raises-21-Million-with-Series-A-Funding-Led-by-Accel-to-Transform-Frontend-Experience-for-11-Million-Worldwide-JavaScript-Developers.html)
 
 [How Next.js can help improve SEO](https://blog.logrocket.com/how-next-js-can-help-improve-seo/)
 
 [Learn Next.js](https://nextjs.org/learn/basics/create-nextjs-app)
 
 
+Serverless Authentication
+
+[Firebase Authentication](https://firebase.google.com/docs/auth)
+
+It is a totally free serverless authentication service. Alternative is AWS Cognito.
+
+
+
 CI/CD
 
-You can connect GitHub to Netlify directly
+You can connect Netlify directly to GitHub Repos. But GitHub actions is also a good choice for CI/CD.
 
 [GitHub Actions](https://github.com/features/actions)
 
