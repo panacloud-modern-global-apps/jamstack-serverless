@@ -166,6 +166,8 @@ Alternatives to Hasura:
 
 [AWS AppSync is a serverless GraphQL service](https://www.serverless.com/aws-appsync)
 
+[Why Serverless GraphQL Is Better with AWS AppSync](https://thenewstack.io/why-serverless-graphql-is-better-with-aws-appsync/)
+
 [Building a serverless real-time chat application with AWS AppSync](https://aws.amazon.com/blogs/mobile/building-a-serverless-real-time-chat-application-with-aws-appsync/)
 
 [Apollo Server Lambda](https://www.apollographql.com/docs/apollo-server/deployment/lambda/)
