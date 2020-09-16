@@ -53,6 +53,9 @@ JAMstack
 
 [Introducing the JAMstack](https://www.infoq.com/news/2020/04/introducing-jamstack/)
 
+[On Mullenweg and the Jamstack - Regression or Future?](https://www.netlify.com/blog/2020/09/15/on-mullenweg-and-the-jamstack-regression-or-future/)
+
+
 [Client-serverless is the 4th generation application model](https://www.infoworld.com/article/3564264/client-serverless-is-the-4th-generation-application-model.html).
 
 [Jamstack brings front-end development back into focus](https://sdtimes.com/webdev/jamstack-brings-front-end-development-back-into-focus/)
