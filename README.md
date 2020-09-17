@@ -55,6 +55,8 @@ JAMstack
 
 [On Mullenweg and the Jamstack - Regression or Future?](https://www.netlify.com/blog/2020/09/15/on-mullenweg-and-the-jamstack-regression-or-future/)
 
+[Weaved Webs](https://css-tricks.com/weaved-webs/)
+
 
 [Client-serverless is the 4th generation application model](https://www.infoworld.com/article/3564264/client-serverless-is-the-4th-generation-application-model.html).
 
