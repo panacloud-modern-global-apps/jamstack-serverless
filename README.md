@@ -185,6 +185,8 @@ GraphQL Services
 
 Alternatives to Hasura:
 
+[AWS AppSync Video](https://www.youtube.com/watch?v=Rz_wK6z8kMU)
+
 [AWS AppSync is a serverless GraphQL service](https://www.serverless.com/aws-appsync)
 
 [Why Serverless GraphQL Is Better with AWS AppSync](https://thenewstack.io/why-serverless-graphql-is-better-with-aws-appsync/)
