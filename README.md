@@ -166,6 +166,8 @@ Alternatives are MongoDB, Amazon DynamoDB, and Google Firestore
 
 GraphQL Services
 
+[When and why to use GraphQL](https://medium.com/@JeffLombardJr/when-and-why-to-use-graphql-24f6bce4839d)
+
 [Hasura Raises $25M in Series B Funding](https://www.finsmes.com/2020/09/hasura-raises-25m-in-series-b-funding.html)
 
 [Enterprise startup Hasura grabs $25 million in a round led by Lightspeed Venture Partners](https://thetechportal.com/2020/09/10/enterprise-startup-hasura-25-million-funding-round-lightspeed-venture-partners/)
