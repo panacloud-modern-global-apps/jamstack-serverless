@@ -23,11 +23,7 @@ GraphQL Playgroud
 http://localhost:8888/.netlify/functions/graphql
 
 
-[Setting Up Apollo Client 3 in a GatsbyJS App](https://www.youtube.com/watch?v=X5fE7iyBQ-0)
-
-[Apollo Client Tutorial](https://www.apollographql.com/docs/react/get-started/)
-
-[gatsby-with-apollo](https://github.com/jlengstorf/gatsby-with-apollo)
+[Demo of combining build-time Gatsby queries with client-side Apollo queries.](https://github.com/jlengstorf/gatsby-with-apollo)
 
 [wrapRootElement API](https://www.gatsbyjs.com/docs/browser-apis/#wrapRootElement)
 
@@ -35,10 +31,6 @@ http://localhost:8888/.netlify/functions/graphql
 npm install @apollo/client graphql --save
 
 
-
-
-
-Add useEffect hook in index.tsx
 
 
 
