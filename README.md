@@ -8,6 +8,13 @@ If you don't have web programming background or don't know React we suggest you 
 
 Before starting the steps we suggest reading the following articles which cover the concepts, technologies, architecture and companies behind modern fullstack websites and apps:
 
+Watch these videos it they cover the summary of all the main concepts:
+
+[Summary in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224537825818010/)
+
+[Summary in English on YouTube](https://www.youtube.com/watch?v=deNpUAzAEH0)
+
+
 Modern Applications
 
 Modern applications are built with a combination of modular architecture patterns like micro services (instead of monolithic)  and components, serverless operational models, event driven architecture, data stored in modern globally distributed databases, services connected with GraphQL Query and realtime subscription APIs, and agile developer processes that allow organizations to innovate faster while reducing risk, time to market, and total cost of ownership. Modern web apps include Single Page App (SPA) frameworks (for example, React, Angular, or Vue) and static-site generators (SSGs) (for example, Gatsby, Next, Hugo, or Jekyll). These applications do content management typically using headless CMS's. Modern applications also extensively use the power of automation with continuous integration and continuous delivery.
