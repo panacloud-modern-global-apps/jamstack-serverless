@@ -14,6 +14,11 @@ Watch these videos it they cover the summary of all the main concepts:
 
 [Summary in English on YouTube](https://www.youtube.com/watch?v=deNpUAzAEH0)
 
+[Summary in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224546245988509/)
+
+[Summary in Urdu on YouTube](https://www.youtube.com/watch?v=sP2Amlw44fk)
+
+
 
 Modern Applications
 
