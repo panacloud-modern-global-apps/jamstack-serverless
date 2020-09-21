@@ -65,9 +65,7 @@ JAMstack
 
 [Introducing the JAMstack](https://www.infoq.com/news/2020/04/introducing-jamstack/)
 
-[On Mullenweg and the Jamstack - Regression or Future?](https://www.netlify.com/blog/2020/09/15/on-mullenweg-and-the-jamstack-regression-or-future/)
-
-[Weaved Webs](https://css-tricks.com/weaved-webs/)
+[Matt Mullenweg and Jamstack Community Square Off, Making Long-Term Bets on the Predominant Architecture for the Web](https://wptavern.com/matt-mullenweg-and-jamstack-community-square-off-making-long-term-bets-on-the-predominant-architecture-for-the-web)
 
 
 [Client-serverless is the 4th generation application model](https://www.infoworld.com/article/3564264/client-serverless-is-the-4th-generation-application-model.html).
