@@ -24,6 +24,8 @@ http://localhost:8888/.netlify/functions/graphql_hello
 
 Now lets start building the client:
 
+npm install @apollo/client --save
+
 [Demo of combining build-time Gatsby queries with client-side Apollo queries.](https://github.com/jlengstorf/gatsby-with-apollo)
 
 We will only use the client-side Apollo queries in this step
@@ -31,19 +33,17 @@ We will only use the client-side Apollo queries in this step
 [wrapRootElement API](https://www.gatsbyjs.com/docs/browser-apis/#wrapRootElement)
 
 
-npm install @apollo/client --save
-
-
-
-
 
 Open in the Browser:
 
 http://localhost:8888
 
+Now lets publish the project on Netlify:
+
+We have to change the URL in the src/apollo/client.js file
+
 
 Create a netlify.toml file with publish directory public and build command
-
 
 
 yarn build
