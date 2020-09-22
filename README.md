@@ -10,13 +10,18 @@ Before starting the steps we suggest reading the following articles which cover 
 
 Watch these videos it they cover the summary of all the main concepts:
 
-[Summary in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224537825818010/)
+[Summary in English on Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224537825818010/)
 
-[Summary in English on YouTube](https://www.youtube.com/watch?v=deNpUAzAEH0)
+[Summary in English on YouTube Video](https://www.youtube.com/watch?v=deNpUAzAEH0)
 
-[Summary in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224546245988509/)
+[Summary in Urdu on Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224546245988509/)
 
-[Summary in Urdu on YouTube](https://www.youtube.com/watch?v=sP2Amlw44fk)
+[Summary in Urdu on YouTube Video](https://www.youtube.com/watch?v=sP2Amlw44fk)
+
+[Step 00 to 05 in English on Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224565563991447/)
+
+[Step 00 to 05 in English on YouTube Video](https://www.youtube.com/watch?v=UP3-m4QigN4)
+
 
 
 
