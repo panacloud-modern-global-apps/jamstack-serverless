@@ -1,19 +1,27 @@
-import React, {useState, useEffect} from "react";
-import { ApolloProvider } from '@apollo/client';
-import { ApolloClient, InMemoryCache } from '@apollo/client';
+import React from "react"
+import { useQuery } from '@apollo/client';
+import gql from 'graphql-tag';
 
-const client = new ApolloClient({
-  uri: '/.netlify/functions/graphql',
-  cache: new InMemoryCache()
-});
+
+// This query is executed at run time by Apollo.
+const APOLLO_QUERY = gql`
+{
+  message
+}
+`;
 
 export default function Home() {
+  const { loading, error, data } = useQuery(APOLLO_QUERY);
+
   return (
-    <ApolloProvider client={client}>
       <div>
-        <h2>My first Gatsby Serverless Apollo app</h2>
+        <h2>Data Received from Apollo Client at runtime from Serverless Function:</h2>
+        {loading && <p>Loading Client Side Querry...</p>}
+        {error && <p>Error: ${error.message}</p>}
+        {data && data.message && (
+          <div>{data.message}</div>
+        )}
       </div>
-    </ApolloProvider>
   );
     
 }

@@ -6,13 +6,13 @@
 
 Now we will add a dependency package in the netlify function
 
-cd functions/graphql
+cd functions/graphql_hello
 
 npm init
 
 npm install --save apollo-server-lambda graphql
 
-add graphql.js hello world code
+add graphql_hello.js hello world code
 
 netlify dev
 
@@ -20,15 +20,18 @@ Note that there are three servers running on local host, Functions server is lis
 
 GraphQL Playgroud 
 
-http://localhost:8888/.netlify/functions/graphql
+http://localhost:8888/.netlify/functions/graphql_hello
 
+Now lets start building the client:
 
 [Demo of combining build-time Gatsby queries with client-side Apollo queries.](https://github.com/jlengstorf/gatsby-with-apollo)
+
+We will only use the client-side Apollo queries in this step
 
 [wrapRootElement API](https://www.gatsbyjs.com/docs/browser-apis/#wrapRootElement)
 
 
-npm install @apollo/client graphql --save
+npm install @apollo/client --save
 
 
 
