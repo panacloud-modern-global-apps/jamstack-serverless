@@ -149,6 +149,8 @@ Serverless
 
 [The impact of serverless on the future of cloud technology](https://cio.economictimes.indiatimes.com/news/cloud-computing/the-impact-of-serverless-on-the-future-of-cloud-technology/77275273)
 
+[Microservices guru says think serverless, not Kubernetes: You don't want to manage 'a towering edifice of stuff'](https://www.theregister.com/2020/09/22/microservices_talk_gotopia/)
+
 [Serverless Architecture – The Future of Cloud Computing](https://www.fortunesoftit.com/serverless-the-future-of-cloud-computing/)
 
 [From Frontend to Fullstack!](https://dev.to/fllstck/from-frontend-to-fullstack-2ah4)
