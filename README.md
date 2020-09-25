@@ -18,9 +18,13 @@ Watch these videos it they cover the summary of all the main concepts:
 
 [Summary in Urdu on YouTube Video](https://www.youtube.com/watch?v=sP2Amlw44fk)
 
-[Step 00 to 05 in English on Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224565563991447/)
+[Steps 00 to 05 in English on Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224565563991447/)
 
-[Step 00 to 05 in English on YouTube Video](https://www.youtube.com/watch?v=UP3-m4QigN4)
+[Steps 00 to 05 in English on YouTube Video](https://www.youtube.com/watch?v=UP3-m4QigN4)
+
+[Steps 00 to 05 in Urdu on Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224572927375527)
+
+[Steps 00 to 05 in Urdu on YouTube Video](https://www.youtube.com/watch?v=r-G-i5spHGg)
 
 
 
