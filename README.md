@@ -26,12 +26,22 @@ Watch these videos it they cover the summary of all the main concepts:
 
 [Steps 00 to 05 in Urdu on YouTube Video](https://www.youtube.com/watch?v=r-G-i5spHGg)
 
+[Steps 06 to 08 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224601577451761/)
+
+[Steps 06 to 08 in English on YouTube](https://www.youtube.com/watch?v=21dnsmxRRYM)
+
+[Steps 06 to 08 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224605671834118)
+
+[Steps 06 to 08 in Urdu on YouTube](https://www.youtube.com/watch?v=rdcqnWJK2Mk)
+
 
 
 
 Modern Applications
 
 Modern applications are built with a combination of modular architecture patterns like micro services (instead of monolithic)  and components, serverless operational models, event driven architecture, data stored in modern globally distributed databases, services connected with GraphQL Query and realtime subscription APIs, and agile developer processes that allow organizations to innovate faster while reducing risk, time to market, and total cost of ownership. Modern web apps include Single Page App (SPA) frameworks (for example, React, Angular, or Vue) and static-site generators (SSGs) (for example, Gatsby, Next, Hugo, or Jekyll). These applications do content management typically using headless CMS's. Modern applications also extensively use the power of automation with continuous integration and continuous delivery.
+
+[Our JAMstack Textbook](https://www.apress.com/gp/book/9781484261767)
 
 [AWS Modern Applications](https://aws.amazon.com/modern-apps/)
 
