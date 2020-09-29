@@ -2,7 +2,7 @@
 
 Here we will learn to develop blazingly fast and scalable modern websites and apps using JAMstack, GraphQL and Serverless technologies.
 
-In this repo we will learn how to develop JAMstack Serverless Websites and Apps using React, Gatsby.js, Contentful, Serverless Functions, Netlify, FaunaDB, Hasura, Firebase, and GitHub Actions. 
+In this repo we will learn how to develop JAMstack Serverless Websites and Apps using React, Gatsby.js, Contentful, Serverless Functions, Netlify, FaunaDB, Apollo, and GitHub Actions. 
 
 If you don't have web programming background or don't know React we suggest you start from this [app development foundation bootcamp](https://panacloud.github.io/bootcamp-2020/).
 
@@ -199,6 +199,10 @@ GraphQL Services
 
 [When and why to use GraphQL](https://medium.com/@JeffLombardJr/when-and-why-to-use-graphql-24f6bce4839d)
 
+[Apollo Server Lambda](https://www.apollographql.com/docs/apollo-server/deployment/lambda/)
+
+Alternatives to Apollo:
+
 [Hasura Raises $25M in Series B Funding](https://www.finsmes.com/2020/09/hasura-raises-25m-in-series-b-funding.html)
 
 [Enterprise startup Hasura grabs $25 million in a round led by Lightspeed Venture Partners](https://thetechportal.com/2020/09/10/enterprise-startup-hasura-25-million-funding-round-lightspeed-venture-partners/)
@@ -216,8 +220,6 @@ GraphQL Services
 [Ramblings: Firebase vs Appsync vs Hasura](https://www.youtube.com/watch?v=mvy79Q3eXsY)
 
 
-Alternatives to Hasura:
-
 [AWS AppSync Video](https://www.youtube.com/watch?v=Rz_wK6z8kMU)
 
 [AWS AppSync is a serverless GraphQL service](https://www.serverless.com/aws-appsync)
@@ -225,8 +227,6 @@ Alternatives to Hasura:
 [Why Serverless GraphQL Is Better with AWS AppSync](https://thenewstack.io/why-serverless-graphql-is-better-with-aws-appsync/)
 
 [Building a serverless real-time chat application with AWS AppSync](https://aws.amazon.com/blogs/mobile/building-a-serverless-real-time-chat-application-with-aws-appsync/)
-
-[Apollo Server Lambda](https://www.apollographql.com/docs/apollo-server/deployment/lambda/)
 
 [Comparing Tools For GraphQL Schema Stitching: Hasura vs. Apollo](https://nordicapis.com/comparing-tools-for-graphql-schema-stitching-hasura-vs-apollo/)
 
