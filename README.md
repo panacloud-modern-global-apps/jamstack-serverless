@@ -8,7 +8,7 @@ If you don't have web programming background or don't know React we suggest you 
 
 Before starting the steps we suggest reading the following articles which cover the concepts, technologies, architecture and companies behind modern fullstack websites and apps:
 
-Watch these videos it they cover the summary of all the main concepts:
+### Class Videos
 
 [Summary in English on Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224537825818010/)
 
@@ -41,7 +41,7 @@ Watch these videos it they cover the summary of all the main concepts:
 
 
 
-Modern Applications
+### Modern Applications
 
 Modern applications are built with a combination of modular architecture patterns like micro services (instead of monolithic)  and components, serverless operational models, event driven architecture, data stored in modern globally distributed databases, services connected with GraphQL Query and realtime subscription APIs, and agile developer processes that allow organizations to innovate faster while reducing risk, time to market, and total cost of ownership. Modern web apps include Single Page App (SPA) frameworks (for example, React, Angular, or Vue) and static-site generators (SSGs) (for example, Gatsby, Next, Hugo, or Jekyll). These applications do content management typically using headless CMS's. Modern applications also extensively use the power of automation with continuous integration and continuous delivery.
 
@@ -56,7 +56,7 @@ Modern applications are built with a combination of modular architecture pattern
 [The rise of 'modern applications': Why you need them](https://searchcio.techtarget.com/feature/The-rise-of-modern-applications-Why-you-need-them)
 
 
-SSG vs SSR vs CSR
+### SSG vs SSR vs CSR
 
 If you build everything as a Single Page App (SPA) using React (Using Create React App) this will be the result: [Stop using React](https://dev.to/ender_minyard/why-you-should-stop-using-react-g7c). Please do read the comments in the article.
 
@@ -84,7 +84,7 @@ If you build everything as a Single Page App (SPA) using React (Using Create Rea
 Therefore we will be using Gatsby for JSMstack to do SSG with CSR when required. You cannot implement SSR with Gatsby, but in our opinion SSR is not Jamstack-y anyway.
 
 
-JAMstack
+### JAMstack
 
 [Introducing the JAMstack](https://www.infoq.com/news/2020/04/introducing-jamstack/)
 
@@ -117,7 +117,7 @@ JAMstack
 [Extending JAMstack: 10 APIs and Tools to check out in 2020](https://www.stackbit.com/blog/extending-jamstack-2020/)
 
 
-Gatsby.js
+### Gatsby.js
 
 [Gatsby Raises $28M in Series B Funding to Become the Way the Web is Built](https://www.businesswire.com/news/home/20200527005268/en/Gatsby-Raises-28M-Series-Funding-Web-Built)
 
@@ -131,7 +131,7 @@ Gatsby.js
 
 
 
-Contentful (Headless CMS)
+### Contentful (Headless CMS)
 
 [Contentful raises $80M Series E round for its headless CMS](https://techcrunch.com/2020/06/17/contentful-raises-80m-series-e-round-for-its-headless-cms/)
 
@@ -140,7 +140,7 @@ Contentful (Headless CMS)
 [Headless, decoupled and Contentful: A non-technical explanation for the confused](https://www.contentful.com/blog/2019/02/04/difference-between-headless-decoupled-contentful/)
 
 
-Netlify
+### Netlify
 
 [Netlify nabs $53M Series C as microservices approach to web development grows](https://techcrunch.com/2020/03/04/netfily-nabs-53m-series-c-as-micro-services-approach-to-web-development-grows/)
 
@@ -161,7 +161,7 @@ Alternatives to Netlify for deploying Fullstack Serverless apps and websites:
 [Azure Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/)
 
 
-Serverless
+### Serverless
 
 [Why serverless is the future of software and apps](https://ttpsc.com/en/blog/why-serverless-is-the-future-of-software-and-apps/)
 
@@ -188,7 +188,7 @@ Serverless
 [Read Summary and Predictions of the paper on Cloud Programming Simplified: A Berkeley View on Serverless Computing](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.pdf)
 
 
-Serverless FaunaDB
+### Serverless FaunaDB
 
 [FaunaDB Closes $27M Series A, Welcomes New Leadership](https://news.crunchbase.com/news/faunadb-closes-27m-series-a-welcomes-new-leadership/)
 
@@ -199,7 +199,7 @@ Serverless FaunaDB
 Alternatives are MongoDB, Amazon DynamoDB, and Google Firestore
 
 
-GraphQL Services
+### GraphQL Services
 
 [When and why to use GraphQL](https://medium.com/@JeffLombardJr/when-and-why-to-use-graphql-24f6bce4839d)
 
@@ -235,7 +235,7 @@ Alternatives to Apollo:
 [Comparing Tools For GraphQL Schema Stitching: Hasura vs. Apollo](https://nordicapis.com/comparing-tools-for-graphql-schema-stitching-hasura-vs-apollo/)
 
 
-Next.js
+### Next.js
 
 [Next.js creator, Vercel, Raises $21 Million with Series A Funding](https://www.globenewswire.com/news-release/2020/04/21/2019124/0/en/Next-js-creator-Vercel-Raises-21-Million-with-Series-A-Funding-Led-by-Accel-to-Transform-Frontend-Experience-for-11-Million-Worldwide-JavaScript-Developers.html)
 
@@ -244,7 +244,7 @@ Next.js
 [Learn Next.js](https://nextjs.org/learn/basics/create-nextjs-app)
 
 
-Serverless Authentication
+### Serverless Authentication
 
 [Firebase Authentication](https://firebase.google.com/docs/auth)
 
@@ -252,7 +252,7 @@ It is a totally free serverless authentication service. Alternative is AWS Cogni
 
 
 
-CI/CD
+### CI/CD
 
 You can connect Netlify directly to GitHub Repos. But GitHub actions is also a good choice for CI/CD.
 
@@ -260,7 +260,7 @@ You can connect Netlify directly to GitHub Repos. But GitHub actions is also a g
 
 
 
-What is Next for Web App Technologies
+### What is Next for Web App Technologies
 
 [An Overview of WebAssembly](https://medium.com/swlh/an-overview-of-webassembly-4ce9bd98aae7)
 
@@ -268,7 +268,7 @@ What is Next for Web App Technologies
 
 [A Practical Overview Of CSS Houdini](https://www.smashingmagazine.com/2020/03/practical-overview-css-houdini/)
 
-Learning Projects:
+### Learning Projects:
 
 ### Bootcamp 2020 Project A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify
 
