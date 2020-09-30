@@ -34,6 +34,10 @@ Watch these videos it they cover the summary of all the main concepts:
 
 [Steps 06 to 08 in Urdu on YouTube](https://www.youtube.com/watch?v=rdcqnWJK2Mk)
 
+[Steps 09 to 12 and 24 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224621671314095/)
+
+[Steps 09 to 12 and 24 in English on YouTube](https://www.youtube.com/watch?v=5bjdsQ95Z44)
+
 
 
 
@@ -263,6 +267,70 @@ What is Next for Web App Technologies
 [Project Fugu by Google, Microsoft, Intel, and Samsung](https://www.chromium.org/teams/web-capabilities-fugu)
 
 [A Practical Overview Of CSS Houdini](https://www.smashingmagazine.com/2020/03/practical-overview-css-houdini/)
+
+Learning Projects:
+
+### Bootcamp 2020 Project A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify
+
+[This Tutorial will help you in building the Blog site](https://ibaslogic.com/blog/gatsby-with-contentful-cms/)
+
+[Demo of Blog site we want to build](https://gatsby-contentful-blogsite.netlify.app/blog/)
+
+[Tutorial](https://www.youtube.com/watch?v=fY3mBJSDA44)
+
+[Watch Video: Episode 1](https://www.youtube.com/watch?v=fY3mBJSDA44)
+
+[Watch Video: Episode 2](https://www.youtube.com/watch?v=IaNU4R3ck_k)
+
+[Watch Video: Episode 3](https://www.youtube.com/watch?v=L9Uv_bLSaP4)
+
+[Watch Video: Episode 4](https://www.youtube.com/watch?v=NkFz2psDupw)
+
+[Watch Video: Episode 5](https://www.youtube.com/watch?v=A8Y1-GRmxFw)
+
+[Watch Video: Episode 6](https://www.youtube.com/watch?v=ONg1gpx0zlA)
+
+We want GitHub Actions workflow that builds a static blog site and deploys on Surge. Our content is hosted on Contentful. We would like to rebuild my static site on a normal repository push event, and also via the Contentful webhook whenever our content is updated. [Reference 1](https://github.community/t/is-it-possible-to-trigger-a-single-workflow-in-github-actions-from-two-different-events/16120) [Reference 2](https://medium.com/@flawyte/zeit-now-github-action-contentful-webhook-6a697d2053cd)
+
+Important Challenge Requirement:
+We want you to build this blog site with gated content, available only for logged-in users. However we still want the blogs to be indexed for SEO reasons, and would like visitors (not logged in) have access to 3 free blogs (just like Medium), after that we want to user to get a "limited" access to each page (maybe 20 lines or so), just like news website sometimes do. The logged-in users will have unlimited access to all the blogs. We will use [Firebase authentication](https://firebase.google.com/docs/auth) for user logins. 
+
+### Bootcamp 2020 Project B: Building Serverless CRUD apps with Netlify Functions and FaunaDB
+
+[Project Article](https://www.netlify.com/blog/2018/07/09/building-serverless-crud-apps-with-netlify-functions-faunadb/)
+
+[Updated Code Repo](https://github.com/netlify/netlify-faunadb-example)
+
+### Bootcamp 2020 Project C: Building a Serverless JAMStack Todo app with Netlify, Gatsby, GraphQL, and FaunaDB
+
+[Project Videos](https://egghead.io/playlists/building-a-serverless-jamstack-todo-app-with-netlify-gatsby-graphql-and-faunadb-53bb)
+
+### Bootcamp 2020 Project D: Create A Bookmarking Application With FaunaDB, Netlify And Gatsby
+
+[Project Article](https://www.smashingmagazine.com/2019/10/bookmarking-application-faunadb-netlify-11ty/)
+
+Note: In the above article the project is done using 11ty however you are required to do it in Gatsby.js with TypeScript
+
+### Bootcamp 2020 Project E: Virtual Lolly using Gatsby, Netlify, FaunaDB, Formik, and Storybook 6
+
+[Project Article](https://css-tricks.com/static-first-pre-generated-jamstack-sites-with-serverless-rendering-as-a-fallback/)
+
+[Project Repo](https://github.com/philhawksworth/virtual-lolly)
+
+[Project Demo](https://vlolly.net/)
+
+[Visual Testing with Storybook in Gatsby](https://www.gatsbyjs.com/docs/visual-testing-with-storybook/)
+
+[Forms with Formik — Gatsby — Netlify](https://medium.com/@thaotruong203/forms-with-formik-gatsby-netlify-11992b7ece99)
+
+Note: In the above article the project is done using 11ty however you are required to do it in Gatsby.js with TypeScript. For developing the form you are required to use Formik. For developing the React Components you will use Storybook 6.
+
+
+### Bootcamp 2020 Extra Project F: Build a Macro Compliance Tracker in Next and MongoDB Atlas with TypeScript and Deploy on Vercel
+
+[Building Modern Applications with Next.js and MongoDB](https://developer.mongodb.com/how-to/nextjs-building-modern-applications)
+
+
 
 
 
