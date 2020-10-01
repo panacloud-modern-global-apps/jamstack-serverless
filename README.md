@@ -38,7 +38,9 @@ Before starting the steps we suggest reading the following articles which cover 
 
 [Steps 09 to 12 and 24 in English on YouTube](https://www.youtube.com/watch?v=5bjdsQ95Z44)
 
+[Steps 09 to 12 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224632582426866/)
 
+[Steps 09 to 12 in Urdu on YouTube](https://www.youtube.com/watch?v=Q-QiqHBKQjQ)
 
 
 ### Modern Applications
