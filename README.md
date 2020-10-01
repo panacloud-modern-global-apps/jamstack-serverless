@@ -55,6 +55,8 @@ Modern applications are built with a combination of modular architecture pattern
 
 [The rise of 'modern applications': Why you need them](https://searchcio.techtarget.com/feature/The-rise-of-modern-applications-Why-you-need-them)
 
+[ooooops I guess we’re* full-stack developers now](https://css-tricks.com/ooooops-i-guess-were-full-stack-developers-now/)
+
 
 ### SSG vs SSR vs CSR
 
