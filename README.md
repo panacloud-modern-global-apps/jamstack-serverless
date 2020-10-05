@@ -42,6 +42,14 @@ Before starting the steps we suggest reading the following articles which cover 
 
 [Steps 09 to 12 in Urdu on YouTube](https://www.youtube.com/watch?v=Q-QiqHBKQjQ)
 
+[Steps 13 to 17 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224657363006365/)
+
+[Steps 13 to 17 in English on YouTube](https://www.youtube.com/watch?v=8PxEZjYUKpc)
+
+[Steps 13 to 17 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224666332310592/)
+
+[Steps 13 to 17 in Urdu on YouTube](https://www.youtube.com/watch?v=uMDyvor_k9k)
+
 
 ### Modern Applications
 
