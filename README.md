@@ -8,7 +8,7 @@ If you don't have web programming background or don't know React we suggest you 
 
 Before starting the steps we suggest reading the following articles which cover the concepts, technologies, architecture and companies behind modern fullstack websites and apps:
 
-Watch these videos it they cover the summary of all the main concepts:
+### Class Videos
 
 [Summary in English on Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224537825818010/)
 
@@ -34,14 +34,28 @@ Watch these videos it they cover the summary of all the main concepts:
 
 [Steps 06 to 08 in Urdu on YouTube](https://www.youtube.com/watch?v=rdcqnWJK2Mk)
 
+[Steps 09 to 12 and 24 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224621671314095/)
+
+[Steps 09 to 12 and 24 in English on YouTube](https://www.youtube.com/watch?v=5bjdsQ95Z44)
+
+[Steps 09 to 12 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224632582426866/)
+
+[Steps 09 to 12 in Urdu on YouTube](https://www.youtube.com/watch?v=Q-QiqHBKQjQ)
+
+[Steps 13 to 17 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224657363006365/)
+
+[Steps 13 to 17 in English on YouTube](https://www.youtube.com/watch?v=8PxEZjYUKpc)
+
+[Steps 13 to 17 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224666332310592/)
+
+[Steps 13 to 17 in Urdu on YouTube](https://www.youtube.com/watch?v=uMDyvor_k9k)
 
 
-
-Modern Applications
+### Modern Applications
 
 Modern applications are built with a combination of modular architecture patterns like micro services (instead of monolithic)  and components, serverless operational models, event driven architecture, data stored in modern globally distributed databases, services connected with GraphQL Query and realtime subscription APIs, and agile developer processes that allow organizations to innovate faster while reducing risk, time to market, and total cost of ownership. Modern web apps include Single Page App (SPA) frameworks (for example, React, Angular, or Vue) and static-site generators (SSGs) (for example, Gatsby, Next, Hugo, or Jekyll). These applications do content management typically using headless CMS's. Modern applications also extensively use the power of automation with continuous integration and continuous delivery.
 
-[Our JAMstack Textbook](https://www.apress.com/gp/book/9781484261767)
+[Read Chapter 1 of this JAMstack book](https://www.apress.com/gp/book/9781484261767)
 
 [AWS Modern Applications](https://aws.amazon.com/modern-apps/)
 
@@ -51,8 +65,10 @@ Modern applications are built with a combination of modular architecture pattern
 
 [The rise of 'modern applications': Why you need them](https://searchcio.techtarget.com/feature/The-rise-of-modern-applications-Why-you-need-them)
 
+[ooooops I guess we’re* full-stack developers now](https://css-tricks.com/ooooops-i-guess-were-full-stack-developers-now/)
 
-SSG vs SSR vs CSR
+
+### SSG vs SSR vs CSR
 
 If you build everything as a Single Page App (SPA) using React (Using Create React App) this will be the result: [Stop using React](https://dev.to/ender_minyard/why-you-should-stop-using-react-g7c). Please do read the comments in the article.
 
@@ -80,7 +96,7 @@ If you build everything as a Single Page App (SPA) using React (Using Create Rea
 Therefore we will be using Gatsby for JSMstack to do SSG with CSR when required. You cannot implement SSR with Gatsby, but in our opinion SSR is not Jamstack-y anyway.
 
 
-JAMstack
+### JAMstack
 
 [Introducing the JAMstack](https://www.infoq.com/news/2020/04/introducing-jamstack/)
 
@@ -113,7 +129,7 @@ JAMstack
 [Extending JAMstack: 10 APIs and Tools to check out in 2020](https://www.stackbit.com/blog/extending-jamstack-2020/)
 
 
-Gatsby.js
+### Gatsby.js
 
 [Gatsby Raises $28M in Series B Funding to Become the Way the Web is Built](https://www.businesswire.com/news/home/20200527005268/en/Gatsby-Raises-28M-Series-Funding-Web-Built)
 
@@ -127,7 +143,7 @@ Gatsby.js
 
 
 
-Contentful (Headless CMS)
+### Contentful (Headless CMS)
 
 [Contentful raises $80M Series E round for its headless CMS](https://techcrunch.com/2020/06/17/contentful-raises-80m-series-e-round-for-its-headless-cms/)
 
@@ -136,7 +152,7 @@ Contentful (Headless CMS)
 [Headless, decoupled and Contentful: A non-technical explanation for the confused](https://www.contentful.com/blog/2019/02/04/difference-between-headless-decoupled-contentful/)
 
 
-Netlify
+### Netlify
 
 [Netlify nabs $53M Series C as microservices approach to web development grows](https://techcrunch.com/2020/03/04/netfily-nabs-53m-series-c-as-micro-services-approach-to-web-development-grows/)
 
@@ -157,7 +173,7 @@ Alternatives to Netlify for deploying Fullstack Serverless apps and websites:
 [Azure Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/)
 
 
-Serverless
+### Serverless
 
 [Why serverless is the future of software and apps](https://ttpsc.com/en/blog/why-serverless-is-the-future-of-software-and-apps/)
 
@@ -184,7 +200,7 @@ Serverless
 [Read Summary and Predictions of the paper on Cloud Programming Simplified: A Berkeley View on Serverless Computing](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.pdf)
 
 
-Serverless FaunaDB
+### Serverless FaunaDB
 
 [FaunaDB Closes $27M Series A, Welcomes New Leadership](https://news.crunchbase.com/news/faunadb-closes-27m-series-a-welcomes-new-leadership/)
 
@@ -195,7 +211,7 @@ Serverless FaunaDB
 Alternatives are MongoDB, Amazon DynamoDB, and Google Firestore
 
 
-GraphQL Services
+### GraphQL Services
 
 [When and why to use GraphQL](https://medium.com/@JeffLombardJr/when-and-why-to-use-graphql-24f6bce4839d)
 
@@ -231,7 +247,7 @@ Alternatives to Apollo:
 [Comparing Tools For GraphQL Schema Stitching: Hasura vs. Apollo](https://nordicapis.com/comparing-tools-for-graphql-schema-stitching-hasura-vs-apollo/)
 
 
-Next.js
+### Next.js
 
 [Next.js creator, Vercel, Raises $21 Million with Series A Funding](https://www.globenewswire.com/news-release/2020/04/21/2019124/0/en/Next-js-creator-Vercel-Raises-21-Million-with-Series-A-Funding-Led-by-Accel-to-Transform-Frontend-Experience-for-11-Million-Worldwide-JavaScript-Developers.html)
 
@@ -240,7 +256,7 @@ Next.js
 [Learn Next.js](https://nextjs.org/learn/basics/create-nextjs-app)
 
 
-Serverless Authentication
+### Serverless Authentication
 
 [Firebase Authentication](https://firebase.google.com/docs/auth)
 
@@ -248,7 +264,7 @@ It is a totally free serverless authentication service. Alternative is AWS Cogni
 
 
 
-CI/CD
+### CI/CD
 
 You can connect Netlify directly to GitHub Repos. But GitHub actions is also a good choice for CI/CD.
 
@@ -256,13 +272,77 @@ You can connect Netlify directly to GitHub Repos. But GitHub actions is also a g
 
 
 
-What is Next for Web App Technologies
+### What is Next for Web App Technologies
 
 [An Overview of WebAssembly](https://medium.com/swlh/an-overview-of-webassembly-4ce9bd98aae7)
 
 [Project Fugu by Google, Microsoft, Intel, and Samsung](https://www.chromium.org/teams/web-capabilities-fugu)
 
 [A Practical Overview Of CSS Houdini](https://www.smashingmagazine.com/2020/03/practical-overview-css-houdini/)
+
+### Learning Projects:
+
+### Bootcamp 2020 Project A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify
+
+[This Tutorial will help you in building the Blog site](https://ibaslogic.com/blog/gatsby-with-contentful-cms/)
+
+[Demo of Blog site we want to build](https://gatsby-contentful-blogsite.netlify.app/blog/)
+
+[Tutorial](https://www.youtube.com/watch?v=fY3mBJSDA44)
+
+[Watch Video: Episode 1](https://www.youtube.com/watch?v=fY3mBJSDA44)
+
+[Watch Video: Episode 2](https://www.youtube.com/watch?v=IaNU4R3ck_k)
+
+[Watch Video: Episode 3](https://www.youtube.com/watch?v=L9Uv_bLSaP4)
+
+[Watch Video: Episode 4](https://www.youtube.com/watch?v=NkFz2psDupw)
+
+[Watch Video: Episode 5](https://www.youtube.com/watch?v=A8Y1-GRmxFw)
+
+[Watch Video: Episode 6](https://www.youtube.com/watch?v=ONg1gpx0zlA)
+
+We want GitHub Actions workflow that builds a static blog site and deploys on Surge. Our content is hosted on Contentful. We would like to rebuild my static site on a normal repository push event, and also via the Contentful webhook whenever our content is updated. [Reference 1](https://github.community/t/is-it-possible-to-trigger-a-single-workflow-in-github-actions-from-two-different-events/16120) [Reference 2](https://medium.com/@flawyte/zeit-now-github-action-contentful-webhook-6a697d2053cd)
+
+Important Challenge Requirement:
+We want you to build this blog site with gated content, available only for logged-in users. However we still want the blogs to be indexed for SEO reasons, and would like visitors (not logged in) have access to 3 free blogs (just like Medium), after that we want to user to get a "limited" access to each page (maybe 20 lines or so), just like news website sometimes do. The logged-in users will have unlimited access to all the blogs. We will use [Firebase authentication](https://firebase.google.com/docs/auth) for user logins. 
+
+### Bootcamp 2020 Project B: Building Serverless CRUD apps with Netlify Functions and FaunaDB
+
+[Project Article](https://www.netlify.com/blog/2018/07/09/building-serverless-crud-apps-with-netlify-functions-faunadb/)
+
+[Updated Code Repo](https://github.com/netlify/netlify-faunadb-example)
+
+### Bootcamp 2020 Project C: Building a Serverless JAMStack Todo app with Netlify, Gatsby, GraphQL, and FaunaDB
+
+[Project Videos](https://egghead.io/playlists/building-a-serverless-jamstack-todo-app-with-netlify-gatsby-graphql-and-faunadb-53bb)
+
+### Bootcamp 2020 Project D: Create A Bookmarking Application With FaunaDB, Netlify And Gatsby
+
+[Project Article](https://www.smashingmagazine.com/2019/10/bookmarking-application-faunadb-netlify-11ty/)
+
+Note: In the above article the project is done using 11ty however you are required to do it in Gatsby.js with TypeScript
+
+### Bootcamp 2020 Project E: Virtual Lolly using Gatsby, Netlify, FaunaDB, Formik, and Storybook 6
+
+[Project Article](https://css-tricks.com/static-first-pre-generated-jamstack-sites-with-serverless-rendering-as-a-fallback/)
+
+[Project Repo](https://github.com/philhawksworth/virtual-lolly)
+
+[Project Demo](https://vlolly.net/)
+
+[Visual Testing with Storybook in Gatsby](https://www.gatsbyjs.com/docs/visual-testing-with-storybook/)
+
+[Forms with Formik — Gatsby — Netlify](https://medium.com/@thaotruong203/forms-with-formik-gatsby-netlify-11992b7ece99)
+
+Note: In the above article the project is done using 11ty however you are required to do it in Gatsby.js with TypeScript. For developing the form you are required to use Formik. For developing the React Components you will use Storybook 6.
+
+
+### Bootcamp 2020 Extra Project F: Build a Macro Compliance Tracker in Next and MongoDB Atlas with TypeScript and Deploy on Vercel
+
+[Building Modern Applications with Next.js and MongoDB](https://developer.mongodb.com/how-to/nextjs-building-modern-applications)
+
+
 
 
 
