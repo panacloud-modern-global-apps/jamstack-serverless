@@ -41,6 +41,6 @@ Go to [article](https://studio3t.com/knowledge-base/articles/mongodb-atlas-tutor
 
 Write and Run Node Programs:
 
-node step0-database-connection
+node step00-database-connection
 
-Do the same with all the nine steps 
+Do the same with all steps 
