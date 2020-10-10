@@ -50,6 +50,15 @@ Before starting the steps we suggest reading the following articles which cover 
 
 [Steps 13 to 17 in Urdu on YouTube](https://www.youtube.com/watch?v=uMDyvor_k9k)
 
+[Steps 18 and 19 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224681883899372/)
+
+[Steps 18 and 19 in English on YouTube](https://www.youtube.com/watch?v=URXA_2HV61s)
+
+[Steps 18 and 19 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224690706039920/)
+
+[Steps 18 and 19 in Urdu on YouTube](https://www.youtube.com/watch?v=ysEQiXY9ozM)
+
+
 
 ### Modern Applications
 
