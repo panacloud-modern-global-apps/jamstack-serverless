@@ -4,6 +4,14 @@ Review Step 20
 
 [Advanced Examples](https://functions.netlify.com/examples/)
 
+[Using Mongoose With AWS Lambda](https://mongoosejs.com/docs/lambda.html)
+
+[Mongodb -- Best Practices Connecting from AWS Lambda](https://docs.atlas.mongodb.com/best-practices-connecting-to-aws-lambda/)
+
+[Things you should know before connecting your AWS Lambda function to a database](https://medium.com/javascript-in-plain-english/serverless-things-i-wish-i-had-known-part-2-dynamodb-x-mongodb-x-aurora-serverless-1053cfddff36)
+
+[Manage RDS Connections from AWS Lambda Serverless Functions](https://www.jeremydaly.com/manage-rds-connections-aws-lambda/)
+
 Now we will add a dependency package in the netlify function
 
 cd functions/add
