@@ -2,18 +2,40 @@
 
 var mongoose = require('mongoose');
 
-exports.handler = async (event, context) => {
-  try {
-    await mongoose.connect(process.env.MONGODB_CONNECTION_STRING,{ useNewUrlParser: true, useUnifiedTopology:true });
-    
-    //Define a schema
-    const studentSchema = new mongoose.Schema({
-      name: String,
-      age: Number
-    });
+let connection = null;
 
-    //Creating a model
-    const Student = mongoose.models.Student || mongoose.model('Student', studentSchema);
+databaseConnection = async ()=>{
+  console.log("connection exists = ",connection !==null);
+  if(!connection) {
+    try {
+      mongoose.connect(process.env.MONGODB_CONNECTION_STRING,{ 
+        useNewUrlParser: true, useUnifiedTopology:true,
+        bufferCommands: false, bufferMaxEntries: 0
+      });
+      connection = mongoose.connection;
+      await connection;
+      console.log('mongoose open for business');
+
+      //Define a schema
+      const studentSchema = new mongoose.Schema({
+        name: String,
+        age: Number
+      });
+
+      mongoose.models.Student || mongoose.model('Student', studentSchema);
+    }
+    catch(error){
+      console.log("Error in connecting to database = ",error);
+    }
+  }
+  return connection;
+}
+
+exports.handler = async (event, context) => {
+  context.callbackWaitsForEmptyEventLoop = false;
+  await databaseConnection();
+  try {
+    const Student = mongoose.models.Student
 
     // Save the new model instance
     const result = await Student.findById({_id: "5f804a079fa5fb0d2cce0262"});
