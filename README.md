@@ -58,6 +58,10 @@ Before starting the steps we suggest reading the following articles which cover 
 
 [Steps 18 and 19 in Urdu on YouTube](https://www.youtube.com/watch?v=ysEQiXY9ozM)
 
+[Steps 20, 21, and 22 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224715900029754/)
+
+[Steps 20, 21, and 22 in English on YouTube](https://www.youtube.com/watch?v=3B_vkzD0kRI)
+
 
 
 ### Modern Applications
