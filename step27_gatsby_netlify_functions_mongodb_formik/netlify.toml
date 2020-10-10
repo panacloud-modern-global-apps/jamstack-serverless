@@ -1,0 +1,7 @@
+[build]
+  command = "yarn build"
+  publish = "public/"
+  functions = "functions/"
+
+[context.production]
+  environment = { MONGODB_CONNECTION_STRING = "my-db-connection-string"}
