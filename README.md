@@ -75,6 +75,11 @@ Before starting the steps we suggest reading the following articles which cover 
 [Steps 22 onwards in Urdu on YouTube](https://www.youtube.com/watch?v=tEpOHCrR9Z8)
 
 
+[Project C Todo App in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224773799597207/)
+
+[Project C Todo App in English on YouTube](https://www.youtube.com/watch?v=jOmFJzafRb8)
+
+
 
 
 
