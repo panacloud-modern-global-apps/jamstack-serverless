@@ -79,6 +79,11 @@ Before starting the steps we suggest reading the following articles which cover 
 
 [Project C Todo App in English on YouTube](https://www.youtube.com/watch?v=jOmFJzafRb8)
 
+[Project C Todo App  in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224784025892858/)
+
+[Project C Todo App in Urdu on YouTube](https://www.youtube.com/watch?v=PUYydBwrgC0)
+
+
 
 
 
