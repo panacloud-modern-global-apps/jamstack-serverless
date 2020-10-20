@@ -83,6 +83,8 @@ Before starting the steps we suggest reading the following articles which cover 
 
 [Project C Todo App in Urdu on YouTube](https://www.youtube.com/watch?v=PUYydBwrgC0)
 
+[Project C Todo App by Adil](https://github.com/adil-innovation-lab/JAMstackTodo)
+
 
 
 
