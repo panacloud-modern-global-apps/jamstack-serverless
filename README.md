@@ -85,6 +85,13 @@ Before starting the steps we suggest reading the following articles which cover 
 
 [Project C Todo App by Adil](https://github.com/adil-innovation-lab/JAMstackTodo)
 
+[Project D in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224799074469063/)
+
+[Project D in English on YouTube](https://www.youtube.com/watch?v=FPH7NYrdBgY)
+
+[Project D Bookmark App by Daniyal](https://github.com/daniyalnagori/bookmarking-app)
+
+
 
 
 
