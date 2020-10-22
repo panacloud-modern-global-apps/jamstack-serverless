@@ -91,6 +91,10 @@ Before starting the steps we suggest reading the following articles which cover 
 
 [Project D Bookmark App by Daniyal](https://github.com/daniyalnagori/bookmarking-app)
 
+[Project D Bookmark App in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224807488559410/)
+
+[Project D in Bookmark App in Urdu on YouTube](https://www.youtube.com/watch?v=fAQG0bN5h6s)
+
 
 
 
