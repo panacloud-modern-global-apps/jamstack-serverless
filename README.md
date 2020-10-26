@@ -96,6 +96,17 @@ Before starting the steps we suggest reading the following articles which cover 
 [Project D in Bookmark App in Urdu on YouTube](https://www.youtube.com/watch?v=fAQG0bN5h6s)
 
 
+[Project E Virtual Lolly App in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224830783101759/)
+
+[Project E Virtual Lolly App in English on YouTube](https://www.youtube.com/watch?v=zlhY7bRYR1A)
+
+[Zeeshan's Project E Virtual Lolly App Code Repo](https://github.com/zeeshanhanif/gatsby-virtual-lolly)
+
+[Project E Virtual Lolly App  in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224839747005851/)
+
+[Project E Virtual Lolly App in Urdu on YouTube](https://www.youtube.com/watch?v=CJ42Nw5Vksk)
+
+
 
 
 
